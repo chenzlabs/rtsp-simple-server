@@ -1,15 +1,9 @@
-code.cloudfoundry.org/bytefmt v0.0.0-20211005130812-5bb3c17173e5 h1:xB7KkA98BcUdzVcwyZxb5R0FGIHxNPHgZOzkjPEY5gM=
-code.cloudfoundry.org/bytefmt v0.0.0-20211005130812-5bb3c17173e5/go.mod h1:v4VVB6oBMz/c9fRY6vZrwr5xKRWOH5NPDjQZlPk0Gbs=
 github.com/abema/go-mp4 v0.10.1 h1:wOhZgNxjduc8r4FJdwPa5x/gdBSSX+8MTnfNj/xkJaE=
 github.com/abema/go-mp4 v0.10.1/go.mod h1:vPl9t5ZK7K0x68jh12/+ECWBCXoWuIDtNgPtU2f04ws=
 github.com/alecthomas/assert/v2 v2.1.0 h1:tbredtNcQnoSd3QBhQWI7QZ3XHOVkw1Moklp2ojoH/0=
-github.com/alecthomas/assert/v2 v2.1.0/go.mod h1:b/+1DI2Q6NckYi+3mXyH3wFb8qG37K/DuK80n7WefXA=
 github.com/alecthomas/kong v0.7.1 h1:azoTh0IOfwlAX3qN9sHWTxACE2oV8Bg2gAwBsMwDQY4=
 github.com/alecthomas/kong v0.7.1/go.mod h1:n1iCIO2xS46oE8ZfYCNDqdR0b0wZNrXAIAqro/2132U=
 github.com/alecthomas/repr v0.1.0 h1:ENn2e1+J3k09gyj2shc0dHr/yjaWSHRlrJ4DPMevDqE=
-github.com/alecthomas/repr v0.1.0/go.mod h1:2kn6fqh/zIyPLmm3ugklbEi5hg5wS435eygvNfaDQL8=
-github.com/aler9/gortsplib/v2 v2.1.4 h1:A4C4Qxz3aQibphXoKsifwKmKZRY7leaO3jHkA+SQ2kw=
-github.com/aler9/gortsplib/v2 v2.1.4/go.mod h1:Eegw8PWa8hNYXiYMlbK3RX1gr7+r25MxniAPGA+kKUE=
 github.com/aler9/gortsplib/v2 v2.1.7 h1:6KaPKSTjnbo3wzn+r4SdkR61Hmgit0OfrxtJ5yWP1hM=
 github.com/aler9/gortsplib/v2 v2.1.7/go.mod h1:Eegw8PWa8hNYXiYMlbK3RX1gr7+r25MxniAPGA+kKUE=
 github.com/aler9/writerseeker v0.0.0-20220601075008-6f0e685b9c82 h1:9WgSzBLo3a9ToSVV7sRTBYZ1GGOZUpq4+5H3SN0UZq4=
@@ -18,8 +12,6 @@ github.com/asticode/go-astikit v0.30.0 h1:DkBkRQRIxYcknlaU7W7ksNfn4gMFsB0tqMJflx
 github.com/asticode/go-astikit v0.30.0/go.mod h1:h4ly7idim1tNhaVkdVBeXQZEE3L0xblP7fCWbgwipF0=
 github.com/asticode/go-astits v1.11.0 h1:GTHUXht0ZXAJXsVbsLIcyfHr1Bchi4QQwMARw2ZWAng=
 github.com/asticode/go-astits v1.11.0/go.mod h1:QSHmknZ51pf6KJdHKZHJTLlMegIrhega3LPWz3ND/iI=
-github.com/bluenviron/gohlslib v0.0.0-20230312114838-5feec7e35841 h1:J5AIpE6ue/l/IgIlLCi/QQJL2MNBTFQrAkDScGbUaDs=
-github.com/bluenviron/gohlslib v0.0.0-20230312114838-5feec7e35841/go.mod h1:SYixOK6Kux6cA9AGR1sg1GJdU2TmYiccVpPmS/Rxdt0=
 github.com/bluenviron/gohlslib v0.0.0-20230314171751-fbd8c7f7e4c8 h1:OiisEsRRqbmRIjF20NYZfChLtEhTRkn8UGf1IxEWaxU=
 github.com/bluenviron/gohlslib v0.0.0-20230314171751-fbd8c7f7e4c8/go.mod h1:9cqtfapvZBvgSgjjP8duIr4PbqnbVsyVSsmAl8wUIoU=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
@@ -31,8 +23,6 @@ github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311/go.mod h1:b583j
 github.com/cloudfoundry/bytefmt v0.0.0-20211005130812-5bb3c17173e5 h1:xB7KkA98BcUdzVcwyZxb5R0FGIHxNPHgZOzkjPEY5gM=
 github.com/cloudfoundry/bytefmt v0.0.0-20211005130812-5bb3c17173e5/go.mod h1:v4VVB6oBMz/c9fRY6vZrwr5xKRWOH5NPDjQZlPk0Gbs=
 github.com/creack/pty v1.1.7/go.mod h1:lj5s0c3V2DBrqTV7llrYr5NG6My20zk30Fl46Y7DoTY=
-github.com/creack/pty v1.1.9 h1:uDmaGzcdjhF4i/plgjmEsriH11Y0o7RKapEf/LDaM3w=
-github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -43,10 +33,7 @@ github.com/gin-contrib/sse v0.1.0 h1:Y/yl/+YNO8GZSjAhjMsSuLt29uWRFHdHYUb5lYOV9qE
 github.com/gin-contrib/sse v0.1.0/go.mod h1:RHrZQHXnP2xjPF+u1gW/2HnVO7nvIa9PG3Gm+fLHvGI=
 github.com/gin-gonic/gin v1.9.0 h1:OjyFBKICoexlu99ctXNR2gg+c5pKrKMuyjgARg9qeY8=
 github.com/gin-gonic/gin v1.9.0/go.mod h1:W1Me9+hsUSyj3CePGrd1/QrKJMSJ1Tu/0hFEH89961k=
-github.com/go-playground/assert/v2 v2.0.1 h1:MsBgLAaY856+nPRTKrp3/OZK38U/wa0CcBYNjji3q3A=
-github.com/go-playground/assert/v2 v2.0.1/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
 github.com/go-playground/assert/v2 v2.2.0 h1:JvknZsQTYeFEAhQwI4qEt9cyV5ONwRHC+lYKSsYSR8s=
-github.com/go-playground/assert/v2 v2.2.0/go.mod h1:VDjEfimB/XKnb+ZQfWdccd7VUvScMdVu0Titje2rxJ4=
 github.com/go-playground/locales v0.14.1 h1:EWaQ/wswjilfKLTECiXz7Rh+3BjFhfDFKv/oXslEjJA=
 github.com/go-playground/locales v0.14.1/go.mod h1:hxrqLVvrK65+Rwrd5Fc6F2O76J/NuW9t0sjnWqG1slY=
 github.com/go-playground/universal-translator v0.18.1 h1:Bcnm0ZwsGyWbCzImXv+pAJnYK9S473LQFuzCbDbfSFY=
