@@ -3,7 +3,7 @@ module github.com/aler9/rtsp-simple-server
 go 1.19
 
 require (
-	code.cloudfoundry.org/bytefmt v0.0.0
+	code.cloudfoundry.org/bytefmt v0.0.0-20211005130812-5bb3c17173e5
 	github.com/alecthomas/kong v0.7.1
 	github.com/aler9/gortsplib/v2 v2.1.7
 	github.com/asticode/go-astits v1.11.0
