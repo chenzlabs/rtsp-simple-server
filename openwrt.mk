@@ -25,7 +25,7 @@ define Package/rtsp-simple-server
   SECTION:=net
   CATEGORY:=Network
   TITLE:=rtsp-simple-server
-  URL:=https://github.com/aler9/rtsp-simple-server
+  URL:=https://github.com/chenzlabs/rtsp-simple-server
   DEPENDS:=$(GO_ARCH_DEPENDS)
 endef
 
