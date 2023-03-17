@@ -3,25 +3,26 @@ module github.com/chenzlabs/rtsp-simple-server
 go 1.19
 
 require (
-	code.cloudfoundry.org/bytefmt v0.0.0-20211005130812-5bb3c17173e5
-	github.com/alecthomas/kong v0.7.1
-	github.com/aler9/gortsplib/v2 v2.1.7
-	github.com/asticode/go-astits v1.11.0
-	github.com/bluenviron/gohlslib v0.0.0-20230314171751-fbd8c7f7e4c8
-	github.com/fsnotify/fsnotify v1.4.9
-	github.com/gin-gonic/gin v1.9.0
-	github.com/google/uuid v1.3.0
-	github.com/gookit/color v1.4.2
-	github.com/gorilla/websocket v1.5.0
-	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
-	github.com/notedit/rtmp v0.0.2
-	github.com/pion/ice/v2 v2.2.11
-	github.com/pion/interceptor v0.1.11
-	github.com/pion/rtp v1.7.13
-	github.com/pion/webrtc/v3 v3.1.47
-	github.com/stretchr/testify v1.8.2
-	golang.org/x/crypto v0.5.0
-	gopkg.in/yaml.v2 v2.4.0
+        code.cloudfoundry.org/bytefmt v0.0.0
+        github.com/alecthomas/kong v0.7.1
+        github.com/aler9/gortsplib/v2 v2.1.7
+        github.com/aler9/rtsp-simple-server v0.21.6
+        github.com/asticode/go-astits v1.11.0
+        github.com/bluenviron/gohlslib v0.0.0-20230314171751-fbd8c7f7e4c8
+        github.com/fsnotify/fsnotify v1.4.9
+        github.com/gin-gonic/gin v1.9.0
+        github.com/google/uuid v1.3.0
+        github.com/gookit/color v1.4.2
+        github.com/gorilla/websocket v1.5.0
+        github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
+        github.com/notedit/rtmp v0.0.2
+        github.com/pion/ice/v2 v2.2.11
+        github.com/pion/interceptor v0.1.11
+        github.com/pion/rtp v1.7.13
+        github.com/pion/webrtc/v3 v3.1.47
+        github.com/stretchr/testify v1.8.2
+        golang.org/x/crypto v0.5.0
+        gopkg.in/yaml.v2 v2.4.0
 )
 
 require (
@@ -45,19 +46,19 @@ require (
         github.com/orcaman/writerseeker v0.0.0 // indirect
         github.com/pelletier/go-toml/v2 v2.0.6 // indirect
         github.com/pion/datachannel v1.5.2 // indirect
-        github.com/pion/dtls/v2 v2.1.5 // indirect
+        github.com/pion/dtls/v2 v2.2.4 // indirect
         github.com/pion/logging v0.2.2 // indirect
         github.com/pion/mdns v0.0.5 // indirect
         github.com/pion/randutil v0.1.0 // indirect
         github.com/pion/rtcp v1.2.10 // indirect
-        github.com/pion/rtp/v2 v2.0.0 // indirect
         github.com/pion/sctp v1.8.2 // indirect
         github.com/pion/sdp/v3 v3.0.6 // indirect
-        github.com/pion/srtp/v2 v2.0.3 // indirect
+        github.com/pion/srtp/v2 v2.0.10 // indirect
         github.com/pion/stun v0.3.5 // indirect
         github.com/pion/transport v0.13.1 // indirect
+        github.com/pion/transport/v2 v2.0.0 // indirect
         github.com/pion/turn/v2 v2.0.8 // indirect
-        github.com/pion/udp v0.1.1 // indirect
+        github.com/pion/udp v0.1.4 // indirect
         github.com/pmezard/go-difflib v1.0.0 // indirect
         github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
         github.com/ugorji/go/codec v1.2.9 // indirect
