@@ -1,4 +1,4 @@
-module github.com/aler9/rtsp-simple-server
+module github.com/chenzlabs/rtsp-simple-server
 
 go 1.19
 
@@ -73,5 +73,3 @@ require (
 )
 
 replace github.com/orcaman/writerseeker => github.com/aler9/writerseeker v0.0.0-20220601075008-6f0e685b9c82
-
-//replace code.cloudfoundry.org/bytefmt => github.com/cloudfoundry/bytefmt v0.0.0-20211005130812-5bb3c17173e5
